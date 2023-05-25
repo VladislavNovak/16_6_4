@@ -1,8 +1,4 @@
-<style>
-t { color: Tomato }
-</style>
-
-## <t>Механическое пианино</t>
+## <font color="tomato">Механическое пианино</font>
 
 Создайте упрощённую модель механического пианино.
 
@@ -19,7 +15,7 @@ t { color: Tomato }
 Однако на этот раз она печатается «красиво», то есть все ноты указываются словами, а не цифрами.
 При этом слова разделяются пробелами.
 
-### <t>Интересные ссылки</t>
+### <font color="tomato">Интересные ссылки</font>
 
 [Шаблоны функций](https://metanit.com/cpp/tutorial/9.2.php)
 
@@ -29,7 +25,7 @@ t { color: Tomato }
 
 [? Initialize vector/array using an enum?](https://stackoverflow.com/questions/27532072/how-do-i-initialize-vector-array-using-an-enum)
 
-### <t>LIB + snippets</t>
+### <font color="tomato">LIB + snippets</font>
 
 (актуальная для 25/05/23):
 
